@@ -1,1 +1,2 @@
-FROM k8s.gcr.io/kube-scheduler-amd64:v1.10.0
+FROM k8s.gcr.io/etcd-amd64:3.1.12
+MAINTAINER liuwenhui <qdn163@163.com>
